@@ -19,11 +19,11 @@ This project is a blog platform that allows users to create, share, and manage p
 
 ### Installation Steps
 #### 1. Clone the repository:
-####    git clone https://github.com/yourusername/yourproject.git
+#####    git clone https://github.com/yourusername/yourproject.git
    
 #### 2. Navigate to the project directory:
  
-####    cd myproject
+#####    cd myproject
 
 
 ## Usage Examples
@@ -39,19 +39,18 @@ This project is a blog platform that allows users to create, share, and manage p
 ####    3. Click "Submit" to send your feedback or inquiry.
 
 ## Contributing
+
 ### Contributions are welcome! Please follow these steps:
 ### 1. Fork the repository.
-### 2. Create a new branch:
 
-###   git checkout -b post_design
+### 2. Create a new branch:
+####   git checkout -b post_design
 
 ### 3. Make your changes and commit them:
-
-###   git commit -m "Added new feature's"
+####   git commit -m "Added new feature's"
 
 ### 4. Push to your branch:
-
-###   git push -u origin post_design
+####   git push -u origin post_design
  
 ### 5. Submit a pull request.
-###   git pull 
+####   git pull 
